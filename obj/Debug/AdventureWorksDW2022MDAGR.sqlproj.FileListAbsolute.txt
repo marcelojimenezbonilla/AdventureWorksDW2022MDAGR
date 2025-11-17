@@ -1,0 +1,10 @@
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\bin\Debug\AdventureWorksDW2022MDAGR.dacpac
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\AdventureWorksDW2022MDAGR.sqlproj.AssemblyReference.cache
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\Model.xml
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\refactor.xml
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\postdeploy.sql
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\predeploy.sql
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\AdventureWorksDW2022MDAGR.dll
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\obj\Debug\AdventureWorksDW2022MDAGR.pdb
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\bin\Debug\AdventureWorksDW2022MDAGR.dll
+C:\install\mjb-hp\MIAV1E4-maestria-ciencia-datos-IA-uagrm\modulo05-data management\semana2\DWH-AdvetureWorks2022\AdventureWorksDW2022MDAGR\bin\Debug\AdventureWorksDW2022MDAGR.pdb

@@ -1,0 +1,5 @@
+﻿CREATE DATABASE AdventureWorksDW2022;
+GO
+
+USE AdventureWorksDW2022;
+GO

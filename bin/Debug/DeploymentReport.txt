@@ -1,0 +1,23 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Quitar
+       [MS_Description] (Propiedad extendida)
+       [PRIMARY].[MS_Description] (Propiedad extendida)
+     Crear
+       [dbo].[DimCustomer] (Tabla)
+       [dbo].[DimDate] (Tabla)
+       [dbo].[DimEmployee] (Tabla)
+       [dbo].[DimProduct] (Tabla)
+       [dbo].[DimSalesTerritory] (Tabla)
+       [dbo].[FactSales] (Tabla)
+
+** Acciones de compatibilidad

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AdventureWorksDW2022MDAGR.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
