@@ -1,7 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D4B65F-CAFB-E3BD-528F-AF84D62FE4D0}|..\\AdventureWorksETL\\AdventureWorksETL.dtproj|C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksETL\\DimEmployee.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4F8494-8648-414E-B8E4-759F12F06309}|AdventureWorksDW2022MDAGR.sqlproj|C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Staging\\01_Create_StagingEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4C4F8494-8648-414E-B8E4-759F12F06309}|AdventureWorksDW2022MDAGR.sqlproj|solutionrelative:Staging\\01_Create_StagingEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4F8494-8648-414E-B8E4-759F12F06309}|AdventureWorksDW2022MDAGR.sqlproj|C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Scripts\\PreDeployment\\PackageConfig.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4C4F8494-8648-414E-B8E4-759F12F06309}|AdventureWorksDW2022MDAGR.sqlproj|solutionrelative:Scripts\\PreDeployment\\PackageConfig.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +21,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01_Create_StagingEmployee.sql",
+              "DocumentMoniker": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Staging\\01_Create_StagingEmployee.sql",
+              "RelativeDocumentMoniker": "Staging\\01_Create_StagingEmployee.sql",
+              "ToolTip": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Staging\\01_Create_StagingEmployee.sql",
+              "RelativeToolTip": "Staging\\01_Create_StagingEmployee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-24T03:42:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackageConfig.sql",
+              "DocumentMoniker": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Scripts\\PreDeployment\\PackageConfig.sql",
+              "RelativeDocumentMoniker": "Scripts\\PreDeployment\\PackageConfig.sql",
+              "ToolTip": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksDW2022MDAGR\\Scripts\\PreDeployment\\PackageConfig.sql",
+              "RelativeToolTip": "Scripts\\PreDeployment\\PackageConfig.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-24T02:55:58.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DimEmployee.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksETL\\DimEmployee.dtsx",
+              "RelativeDocumentMoniker": "..\\AdventureWorksETL\\DimEmployee.dtsx",
+              "ToolTip": "C:\\install\\mjb-hp\\MIAV1E4-maestria-ciencia-datos-IA-uagrm\\modulo05-data management\\semana2\\DWH-AdvetureWorks2022\\AdventureWorksETL\\DimEmployee.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "..\\AdventureWorksETL\\DimEmployee.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMlSURBVDhPjZQ7bJtVGIaf41vsOk7ihICdxK1wiWiTFhW1QBEDapEQAnVoOzGUAalDNybECgsINqQOrBUDGzAgIUCVijoUqAQoTuM4JW4dO3Yuvvz2/9v//TC4/mM7ROGVPumc73zvq/d85yIAPvniq9/S8ydf4hComk5lZ/fHv\u002B7fu/nd11/\u002BMLyOlDLQG59Mz5CamRosGMLdP1ZZWlk9r1mIK\u002B99wM/f37rTUmqqVyCE8ANcePPS9RdfWJidS0xxJDxyYOSL21iOGx6NRie3qsrs9NOJWkdt1rSW0u5p\u002Bjz1/wm/348r5eT2bu1iPJG\u002BFhmdmO9fHxDUTYfthuGFptsY1l5O1V0e5ov8nckSG42GipvlKy1Ve65fw\u002BshQHajxbf3Kt78jTPTTI\u002BF\u002BObXEgAtxSCeSPPOsyksy\u002Ban23f62F0MOHQl6K6P9vgM2sQsVjjWzTnQHksg506wcPYsr7\u002B8SDAYRAjRT4dhQQCkizA0hK4hbPNJTiKMDgHLIBYOMTE\u002BNszyMCA4Hg2yOBflVNzmdNxiOuwSiwRYTI1yatJmcdwiHnLoOP2sQQz08HgyyvFktD8FwLULKSSgW6BaUKjUhks87N/yAdAtaFmgGNC2wR8MAYf08J\u002Byxq3bG14sPW7iuNCxu86ahqRhSFRTIBFw2KEomsVyUSNTD7JUD1Jp\u002B9EdaJmgGJKG0XWomRLp2CBlPx2GBQEQPuRIBBmOYooAqtlzBnUdqk2TmqKju0Fik0mS6dML8dSZixw5dm6foE9A2OcSaZSJ1Es4quqJNXRodCSlrSaPNhq0gzMsnH\u002BbS\u002B9//OG5q5//wtF3bzJ8yidSMW5MRTAsUG1whZ\u002Bm2d1m0wTNAsuFuaciXH0tyW5Dp7SlUSlU90z1Btn1Te7ef8DSgxwrqznW13KsraywtpxhM5ehsZ5BLy7jNre6RCnptC2q9Q4t7ckD6Dk0TZs/Mzl2qgffrx4CE0cZOfY8hbLKWkEh\u002B1ihUvV\u002Br65gPv9webepy0Kh2M/9Tzwz/2rSFImU1Drkyy0elVVKO3uC\u002By/SYUi89RGzlz8dTqPlfyf72Sv/AiuphR\u002BNLPK3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-24T01:33:37.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

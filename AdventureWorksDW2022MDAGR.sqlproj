@@ -80,5 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\PreDeployment\00_Create_Database.sql" />
+    <None Include="Scripts\PreDeployment\PackageConfig.sql" />
+    <None Include="Staging\01_Create_StagingEmployee.sql" />
   </ItemGroup>
 </Project>
